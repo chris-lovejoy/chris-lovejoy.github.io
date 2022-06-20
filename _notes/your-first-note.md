@@ -2,9 +2,12 @@
 title: Your first seed
 ---
 
-### Welcome!
+### Welcome
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
+
+Or, at least, it *was*. In fact, the first _true_ note is [[My first true note]].
+
 
 ### Link syntax
 
