@@ -8,6 +8,8 @@ This is your first note. You'll find it in the [`notes/`](https://github.com/max
 
 Or, at least, it *was*. In fact, the first _true_ note is [[My first true note]].
 
+And - I edited it again. This time on main. Let's see if it syncs.
+
 
 ### Link syntax
 
